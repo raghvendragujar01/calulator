@@ -23,7 +23,12 @@ body{
 
 
 }
-
+#ggg{
+    display: flexbox;
+    
+    display: flex;
+    
+}
 input{
     width: 320px;
     border: none;
