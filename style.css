@@ -27,6 +27,7 @@ body{
     display: flexbox;
     
     display: flex;
+    flex-direction: column;
     
 }
 input{
